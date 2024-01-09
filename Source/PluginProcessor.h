@@ -132,6 +132,14 @@ private:
             }
     }
     
+    void updateLowCutFilters(const ChainSettings& chainSettings);
+    void updateHighCutFilters(const ChainSettings& chainSettings);
+    
+    
+    void updateFilters();
+    
+    
+    
     //==============================================================================
 //    juce::AudioParameterFloat* freq;
 //    juce::AudioParameterChoice* cut;
