@@ -61,14 +61,14 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="11" x="0.76375" y="0.551923076923077" useARA="0" uiLastX_Normal="474"
+  <FILTER uid="11" x="0.76375" y="0.551923076923077" useARA="0" uiLastX_Normal="110"
           uiLastY_Normal="387" uiopen_Normal="1">
     <PLUGIN name="SimpleEQ" format="VST3" category="Fx" manufacturer="ET"
             version="1.0.0" file="/Users/evan/Library/Audio/Plug-Ins/VST3/SimpleEQ.vst3"
-            uniqueId="f3a8e11e" isInstrument="0" fileTime="18cecaa399e" infoUpdateTime="18cecab750a"
+            uniqueId="f3a8e11e" isInstrument="0" fileTime="18d0735e306" infoUpdateTime="18d07363aca"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="acf5b439"/>
-    <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
+    <STATE>623.VMjLgXl....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9LCNy3BTEwlXmAiUYoWUrIVdA4hKAIlKTETRUAUSAAkKBolQY4BQlMTQlQkVscVLPASTGgjQIcUV2EjYic1cVM1ZAAkKIAkKt3hKt3hKlMidtDjKTETRUAUSAAkKBolQY4BQ1MTQlQkVscVLPASTGgzT2ESX1UkQtDSQFEFLUYjKAolKA4hKt3hKt3hKt3hKt.UQpQUPvPjKAgDTZoVPP4RST4xT0MlLPASTGgjQIcUV2EjYic1cVM1ZAAkKIAkKt3hKt3hKt3jXtDjKTETRUAUSAAkKBolQY4BQlMTQ1oWXxzDUioWP3Qkb3XjXqEjYic1cVM1ZAAkKIAkKt3hKt3hKt3hKt3hKTETRUAUSAAkKBolQY4BQ1ITQtTUVmMmQHYTRWk0cAY1XmcmUisVPP4RRP4hKt3hKt3hKxblKA4BUAkTUP0TPP4hPpYTVtPjcBUjKUk0YyYDRGUjUZQWPlM1Y2Y0XqEDTtjDTt3hKt3hKt3hKt3hKtPUPIUETMEDTtHjZFkkKDY1PE4RUYc1bFgTTUcEVxslQiQSPlM1Y2Y0XqEDTtjDTt3hKt3hKt3hK2rhKt3hKt3hKt3hKt3haTU0PUQDU3sFaicVTWkEQEYzXmEDTtDDRTQlcEEiX4EDTtDDSt3xXt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQ77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
     <LAYOUT>
       <INPUTS>
         <BUS index="0" layout="L R"/>
@@ -82,7 +82,7 @@
           uiLastY_Normal="114" uiopen_Normal="1">
     <PLUGIN name="AUAudioFilePlayer" format="AudioUnit" category="Generator"
             manufacturer="Apple" version="1.6.0" file="AudioUnit:Generators/augn,afpl,appl"
-            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="18cecab750a"
+            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="18d07363aca"
             numInputs="0" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="6163676e"/>
     <STATE>820.hAGaoMGcv.C1AHv.DTfAGfPBJr.IkXxIpvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPhxfFR2fCO.AVFkFak4TXsU1URU1Yo8lay8ED07RUyUlby8RY1ElauPza24FauEFYy8BTuIGcgwFHREFYo8FHnPTQC8TSPIUQSMUQDkhK2ElcgFA0RLAEUXwEXjgWRU1Yo8laD8VYywzauAmVRU1Yo8laDEFcg8EDPjzbSUFakMFckQlTkcVZu4lVRU1Yo8laNEVakgvSP.G............jWVev+A......+C.....L.UI...F...Xj4A..fA....4k0G7e....PdY8A+G..D...............................................................38Vg.......InkSkcGHRU1Yo8laS2fCavQGX3URyMUYrU1XzUFYFkFak8FDw.vK.TE.yAPY.HG.yAvK.TF.1APX.3F.u..Q.7F.2Afa.vF.uAPX.PF.yAvKswKLWASU.7E.z..N.HC.z.vW.rD.gAfb.DF.uAvZ.TF.eAfP..E.MAPL.DC.z.fK.bG.gAfcg5A0RLAEUXAHXHBBOAAb............LG30B9G......7O.....f5Hi...X...fmSF...F....yAdsf+A...vbfWK3e..P..................................................3CP..........fdQVI......jfVNU1cfHUYmk1atkfDgYFbrAA.RDVcm4lznjxCbXkQowVYfDiUFkFakAhLXUkazkFcrUFY.f..Y.fI.rB.IAPT.jE.dA.b.TG.5Avd.3G.CB.i.PI.LCfy.bM.lCP7APP.OD.DALX.DFviAXY.kJfBBvf.UHfEBjn.JJPkBXo.aJPmBHp.mJfqBTK.......f.A.........vJ..................f.9B</STATE>
